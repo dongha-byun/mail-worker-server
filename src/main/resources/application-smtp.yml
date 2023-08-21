@@ -1,0 +1,13 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: side.project.shoppingmall@gmail.com
+    password: fczbtgyhtsddmbgp
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
